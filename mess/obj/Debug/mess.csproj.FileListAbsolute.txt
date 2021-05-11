@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Interfacesw\mess\bin\Debug\mess.exe.config
+C:\Users\ACER\source\repos\Interfacesw\mess\bin\Debug\mess.exe
+C:\Users\ACER\source\repos\Interfacesw\mess\bin\Debug\mess.pdb
+C:\Users\ACER\source\repos\Interfacesw\mess\obj\Debug\mess.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Interfacesw\mess\obj\Debug\mess.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Interfacesw\mess\obj\Debug\mess.exe
+C:\Users\ACER\source\repos\Interfacesw\mess\obj\Debug\mess.pdb

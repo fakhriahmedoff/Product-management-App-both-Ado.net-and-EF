@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\Interfacesw\Interfacesw\bin\Debug\Interfacesw.exe.config
+C:\Users\ACER\source\repos\Interfacesw\Interfacesw\bin\Debug\Interfacesw.exe
+C:\Users\ACER\source\repos\Interfacesw\Interfacesw\bin\Debug\Interfacesw.pdb
+C:\Users\ACER\source\repos\Interfacesw\Interfacesw\obj\Debug\Interfacesw.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Interfacesw\Interfacesw\obj\Debug\Interfacesw.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Interfacesw\Interfacesw\obj\Debug\Interfacesw.exe
+C:\Users\ACER\source\repos\Interfacesw\Interfacesw\obj\Debug\Interfacesw.pdb

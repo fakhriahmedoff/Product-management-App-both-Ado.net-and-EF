@@ -1,0 +1,10 @@
+C:\Users\ACER\source\repos\Interfacesw\AdoNetFormsApp\bin\Debug\AdoNetFormsApp.exe.config
+C:\Users\ACER\source\repos\Interfacesw\AdoNetFormsApp\bin\Debug\AdoNetFormsApp.exe
+C:\Users\ACER\source\repos\Interfacesw\AdoNetFormsApp\bin\Debug\AdoNetFormsApp.pdb
+C:\Users\ACER\source\repos\Interfacesw\AdoNetFormsApp\obj\Debug\AdoNetFormsApp.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Interfacesw\AdoNetFormsApp\obj\Debug\AdoNetFormsApp.Properties.Resources.resources
+C:\Users\ACER\source\repos\Interfacesw\AdoNetFormsApp\obj\Debug\AdoNetFormsApp.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Interfacesw\AdoNetFormsApp\obj\Debug\AdoNetFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Interfacesw\AdoNetFormsApp\obj\Debug\AdoNetFormsApp.exe
+C:\Users\ACER\source\repos\Interfacesw\AdoNetFormsApp\obj\Debug\AdoNetFormsApp.pdb
+C:\Users\ACER\source\repos\Interfacesw\AdoNetFormsApp\obj\Debug\AdoNetFormsApp.SimpleGrocery.resources
